@@ -33,12 +33,6 @@ Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 
 ## Prosthetic Tools (Skills)
 
-<div align="center">
-
-<img src="assets/skills-badge-row.svg" alt="Skills"/>
-
-</div>
-
 | Tool | Mastery |
 |---|---|
 | **Terraform / IaC** | Currently forging — HCL learned, first `apply`/`destroy` cycle complete |
