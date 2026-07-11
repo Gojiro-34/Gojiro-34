@@ -1,19 +1,20 @@
-<img src="assets/sekiro-banner.svg" alt="Banner" width="100%"/>
 <div align="center">
-<p><i>"Hesitation is defeat."</i></p>
-<img src="https://img.shields.io/badge/Deaths-∞-8B0000?style=for-the-badge&labelColor=0d0d0d" alt="Deaths"/>
-<img
 
 # Mohammad Ibrahim Asif
-### `Shinobi of the Cloud — Wandering IaC Ronin`
+### `Shinobi of the Cloud`
 
-![Deaths](https://img.shields.io/badge/Deaths-∞-8B0000?style=for-the-badge)
-![Resurrections](https://img.shields.io/badge/Resurrections-terraform_apply-2b2b2b?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Still_Learning-C9A96E?style=for-the-badge)
+<p><i>"Hesitation is defeat."</i></p>
+
+<img src="https://img.shields.io/badge/Deaths-∞-8B0000?style=for-the-badge&labelColor=0d0d0d" alt="Deaths"/>
+<img src="https://img.shields.io/badge/Resurrections-terraform__apply-8B0000?style=for-the-badge&labelColor=0d0d0d" alt="Resurrections"/>
+<img src="https://img.shields.io/badge/Status-Still_Learning-6b0f1a?style=for-the-badge&labelColor=0d0d0d" alt="Status"/>
 
 </div>
 
----
+<br/>
+
+
+<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
 
 ## Character Sheet
 
@@ -28,9 +29,15 @@ Resurrections:  Unlimited (thanks to version control)
 Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 ```
 
----
+<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
 
 ## Prosthetic Tools (Skills)
+
+<div align="center">
+
+<img src="assets/skills-badge-row.svg" alt="Skills"/>
+
+</div>
 
 | Tool | Mastery |
 |---|---|
@@ -42,7 +49,7 @@ Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 | **C++** | Learned — old style, still sharp |
 | **Godot Engine** | Side quest — dabbling in 2D game dev |
 
----
+<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
 
 ## Boss Fights Defeated
 
@@ -51,16 +58,16 @@ Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 - [ ] **Isshin, the Sword Saint (Full IaC Mastery)** — *fighting now — Terraform, Ansible, CloudFormation*
 - [ ] **Sword Saint Isshin, Phase 2 (Kubernetes + EKS + GitOps)** — locked
 
----
+<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
 
 <div align="center">
 
-```
-"The path of the shinobi is not glorious.
-      It is not honorable.
-   It is a path to survive."
-```
+*"The path of the shinobi is not glorious.*<br/>
+*It is not honorable.*<br/>
+*It is a path to survive."*
 
-**Connect:** [GitHub](https://github.com/Gojiro-34) · [LinkedIn](https://linkedin.com/in/ibrahim-asif-7a1243357/) · [Portfolio](https://d12auqojlsm9xj.cloudfront.net)
+<img src="https://img.shields.io/badge/GitHub-Gojiro--34-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/LinkedIn-ibrahim--asif-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Portfolio-view-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Portfolio"/>
 
 </div>
