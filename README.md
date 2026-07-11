@@ -1,25 +1,27 @@
 <div align="center">
 
-```
-                          ⛩️
-                    ─────┴─────
-                   |  死 SEKIRO  |
-                    ───────────
-              "Hesitation is defeat."
-```
+# 死 SEKIRO
+
+### "Hesitation is defeat."
+
+</div>
+
+---
+
+<div align="center">
 
 # Mohammad Ibrahim Asif
 ### `Shinobi of the Cloud — Wandering IaC Ronin`
 
-![Deaths](https://img.shields.io/badge/Deaths-∞-8B0000?style=for-the-badge&logo=github&logoColor=white)
-![Resurrections](https://img.shields.io/badge/Resurrections-terraform_apply-2b2b2b?style=for-the-badge&logo=terraform&logoColor=white)
+![Deaths](https://img.shields.io/badge/Deaths-∞-8B0000?style=for-the-badge)
+![Resurrections](https://img.shields.io/badge/Resurrections-terraform_apply-2b2b2b?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Still_Learning-C9A96E?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📜 Character Sheet
+## Character Sheet
 
 ```yaml
 Class:          Cloud Shinobi
@@ -34,21 +36,21 @@ Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 
 ---
 
-## ⚔️ Prosthetic Tools (Skills)
+## Prosthetic Tools (Skills)
 
 | Tool | Mastery |
 |---|---|
-| 🪓 **Terraform / IaC** | Currently forging — HCL learned, first `apply`/`destroy` cycle complete |
-| 🌐 **AWS Networking (VPC, IAM, Security Groups)** | Learned — custom VPC, subnets, and least-privilege IAM built by hand |
-| 🐳 **Docker** | Learned — deploys without hesitation |
-| ⚡ **Serverless (Lambda, EventBridge)** | Learned — automated RDS backups, scheduled and tested |
-| ☁️ **AWS Services (EC2, S3, RDS, CloudFront, CloudWatch)** | Battle-tested — full capstone stack, interconnected |
-| ⚙️ **C++** | Learned — old style, still sharp |
-| 🎮 **Godot Engine** | Side quest — dabbling in 2D game dev |
+| **Terraform / IaC** | Currently forging — HCL learned, first `apply`/`destroy` cycle complete |
+| **AWS Networking (VPC, IAM, Security Groups)** | Learned — custom VPC, subnets, and least-privilege IAM built by hand |
+| **Docker** | Learned — deploys without hesitation |
+| **Serverless (Lambda, EventBridge)** | Learned — automated RDS backups, scheduled and tested |
+| **AWS Services (EC2, S3, RDS, CloudFront, CloudWatch)** | Battle-tested — full capstone stack, interconnected |
+| **C++** | Learned — old style, still sharp |
+| **Godot Engine** | Side quest — dabbling in 2D game dev |
 
 ---
 
-## 🐉 Boss Fights Defeated
+## Boss Fights Defeated
 
 - [x] **Genichiro (Docker + CI/CD)** — containerized everything, GitHub Actions deploys on push
 - [x] **Guardian Ape (AWS Core Services)** — tamed VPC, EC2, RDS, S3, Lambda, CloudWatch, CloudFront
