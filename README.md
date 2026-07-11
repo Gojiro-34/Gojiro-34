@@ -1,22 +1,17 @@
+<img src="assets/sekiro-banner.svg" alt="Banner" width="100%"/>
+
 <div align="center">
-
-<img src="https://img.shields.io/badge/%E6%AD%BB-SEKIRO-8B0000?style=for-the-badge&labelColor=0d0d0d&color=8B0000" alt="Sekiro"/>
-
-<br/>
-
-<h1 style="margin-bottom:0">Mohammad Ibrahim Asif</h1>
-
-<img src="https://img.shields.io/badge/Shinobi_of_the_Cloud-Wandering_IaC_Ronin-C9A96E?style=flat-square&labelColor=1a1a1a" alt="tagline"/>
 
 <p><i>"Hesitation is defeat."</i></p>
 
 <img src="https://img.shields.io/badge/Deaths-∞-8B0000?style=for-the-badge&labelColor=0d0d0d" alt="Deaths"/>
-<img src="https://img.shields.io/badge/Resurrections-terraform__apply-c9a96e?style=for-the-badge&labelColor=0d0d0d" alt="Resurrections"/>
+<img src="https://img.shields.io/badge/Resurrections-terraform__apply-8B0000?style=for-the-badge&labelColor=0d0d0d" alt="Resurrections"/>
 <img src="https://img.shields.io/badge/Status-Still_Learning-6b0f1a?style=for-the-badge&labelColor=0d0d0d" alt="Status"/>
 
 </div>
 
 <br/>
+
 
 <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
 
@@ -33,18 +28,13 @@ Resurrections:  Unlimited (thanks to version control)
 Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 ```
 
-<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-c9a96e?style=flat-square&labelColor=c9a96e" width="100%" height="4"/>
+<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
 
 ## Prosthetic Tools (Skills)
 
 <div align="center">
 
-![Terraform](https://img.shields.io/badge/Terraform-6b0f1a?style=for-the-badge&logo=terraform&logoColor=c9a96e&labelColor=0d0d0d)
-![AWS](https://img.shields.io/badge/AWS-6b0f1a?style=for-the-badge&logo=amazonaws&logoColor=c9a96e&labelColor=0d0d0d)
-![Docker](https://img.shields.io/badge/Docker-6b0f1a?style=for-the-badge&logo=docker&logoColor=c9a96e&labelColor=0d0d0d)
-![Lambda](https://img.shields.io/badge/Serverless-6b0f1a?style=for-the-badge&logo=awslambda&logoColor=c9a96e&labelColor=0d0d0d)
-![CPP](https://img.shields.io/badge/C++-6b0f1a?style=for-the-badge&logo=cplusplus&logoColor=c9a96e&labelColor=0d0d0d)
-![Godot](https://img.shields.io/badge/Godot-6b0f1a?style=for-the-badge&logo=godotengine&logoColor=c9a96e&labelColor=0d0d0d)
+<img src="assets/skills-badge-row.svg" alt="Skills"/>
 
 </div>
 
@@ -75,8 +65,8 @@ Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 *It is not honorable.*<br/>
 *It is a path to survive."*
 
-<img src="https://img.shields.io/badge/GitHub-Gojiro--34-0d0d0d?style=for-the-badge&logo=github&logoColor=c9a96e" alt="GitHub"/>
-<img src="https://img.shields.io/badge/LinkedIn-ibrahim--asif-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=c9a96e" alt="LinkedIn"/>
-<img src="https://img.shields.io/badge/Portfolio-view-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=c9a96e" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/GitHub-Gojiro--34-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/LinkedIn-ibrahim--asif-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Portfolio-view-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Portfolio"/>
 
 </div>
