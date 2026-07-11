@@ -1,14 +1,8 @@
+<img src="assets/sekiro-banner.svg" alt="Banner" width="100%"/>
 <div align="center">
-
-# 死 SEKIRO
-
-### "Hesitation is defeat."
-
-</div>
-
----
-
-<div align="center">
+<p><i>"Hesitation is defeat."</i></p>
+<img src="https://img.shields.io/badge/Deaths-∞-8B0000?style=for-the-badge&labelColor=0d0d0d" alt="Deaths"/>
+<img
 
 # Mohammad Ibrahim Asif
 ### `Shinobi of the Cloud — Wandering IaC Ronin`
