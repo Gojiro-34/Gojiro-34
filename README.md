@@ -60,8 +60,8 @@ Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 *It is not honorable.*<br/>
 *It is a path to survive."*
 
-<img src="https://img.shields.io/badge/GitHub-Gojiro--34-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/LinkedIn-ibrahim--asif-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<img src="https://img.shields.io/badge/Portfolio-view-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Portfolio"/>
+[<img src="https://img.shields.io/badge/GitHub-Gojiro--34-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/Gojiro-34)
+[<img src="https://img.shields.io/badge/LinkedIn-ibrahim--asif-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/ibrahim-asif)
+[<img src="https://img.shields.io/badge/Portfolio-view-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Portfolio"/>](https://d12auqojlsm9xj.cloudfront.net)
 
 </div>
