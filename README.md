@@ -20,11 +20,11 @@
 
 ```yaml
 Class:          Cloud Shinobi
-Title:          Sculptor's Apprentice (Terraform Disciple)
+Title:          Sword Saint (DevOps Ascendant)
 Origin:         FAST-NUCES, Chiniot-Faisalabad — Class of 2028
-Level:          5th Semester — still climbing Ashina Castle
-HP:             ████████████████░░  82%
-Posture:        ████████████░░░░░░  68%
+Level:          5th Semester — Phase 4 cleared, EKS gates ahead
+HP:             ██████████████████░  90%
+Posture:        ███████████████░░░░  78%
 Resurrections:  Unlimited (thanks to version control)
 Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 ```
@@ -35,9 +35,15 @@ Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 
 | Tool | Mastery |
 |---|---|
-| **Terraform / IaC** | Currently forging — HCL learned, first `apply`/`destroy` cycle complete |
+| **Terraform / IaC** | Learned — HCL, state, full apply/destroy lifecycle, full Phase 1+2 capstone rebuild |
+| **Ansible** | Learned — idempotent playbooks, agentless SSH-based deployment |
+| **CloudFormation** | Learned — stacks, intrinsic functions, VPC+RDS from scratch |
 | **AWS Networking (VPC, IAM, Security Groups)** | Learned — custom VPC, subnets, and least-privilege IAM built by hand |
-| **Docker** | Learned — deploys without hesitation |
+| **Docker** | Learned — images, containers, deploys without hesitation |
+| **Docker Compose** | Learned — multi-container orchestration, service discovery, healthcheck-based startup |
+| **Kubernetes (Pods, Deployments, Services)** | Learned — core orchestration concepts, hands-on via minikube |
+| **AWS ECS & EKS** | Learned — managed container orchestration on AWS, ECS vs. EKS tradeoffs |
+| **GitOps (Jenkins, ArgoCD)** | Learned — CI/CD pipelines beyond push-to-deploy |
 | **Serverless (Lambda, EventBridge)** | Learned — automated RDS backups, scheduled and tested |
 | **AWS Services (EC2, S3, RDS, CloudFront, CloudWatch)** | Battle-tested — full capstone stack, interconnected |
 | **C++** | Learned — old style, still sharp |
@@ -49,8 +55,9 @@ Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
 
 - [x] **Genichiro (Docker + CI/CD)** — containerized everything, GitHub Actions deploys on push
 - [x] **Guardian Ape (AWS Core Services)** — tamed VPC, EC2, RDS, S3, Lambda, CloudWatch, CloudFront
-- [ ] **Isshin, the Sword Saint (Full IaC Mastery)** — *fighting now — Terraform, Ansible, CloudFormation*
-- [ ] **Sword Saint Isshin, Phase 2 (Kubernetes + EKS + GitOps)** — locked
+- [x] **Isshin, the Sword Saint (Full IaC Mastery)** — Terraform, Ansible, CloudFormation, full capstone rebuild
+- [x] **Sword Saint Isshin, Phase 2 (Kubernetes + EKS + GitOps)** — Docker Compose, Kubernetes basics, EKS, ECS, GitOps pipeline cleared
+- [ ] **Inner Isshin (Certifications)** — locked — AWS CLF-C02, SAA, DevOps Engineer Pro
 
 <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
 
