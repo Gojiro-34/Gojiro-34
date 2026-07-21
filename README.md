@@ -1,74 +1,32 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ibrahim Asif 👋</h1>
+<h3 align="center">Software Engineering Student | Cloud & DevOps Enthusiast</h3>
 
-# Mohammad Ibrahim Asif
-### `Shinobi of the Cloud`
+<p align="center">
+  <a href="https://linkedin.com/in/ibrahim-asif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:asifibrahim256@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
-<p><i>"Hesitation is defeat."</i></p>
+I'm a Software Engineering undergrad building a self-directed cloud engineering track alongside my degree — hands-on with AWS, Infrastructure as Code, containers, and Kubernetes. I like debugging real infra until it actually works.
 
-<img src="https://img.shields.io/badge/Deaths-∞-8B0000?style=for-the-badge&labelColor=0d0d0d" alt="Deaths"/>
-<img src="https://img.shields.io/badge/Resurrections-terraform__apply-8B0000?style=for-the-badge&labelColor=0d0d0d" alt="Resurrections"/>
-<img src="https://img.shields.io/badge/Status-Still_Learning-6b0f1a?style=for-the-badge&labelColor=0d0d0d" alt="Status"/>
+## ☁️ Tech Stack
 
-</div>
+**Cloud & Infra:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
 
-<br/>
+**Containers:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
+**CI/CD & Tools:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
+**Languages:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## Character Sheet
+## 📊 GitHub Stats
 
-```yaml
-Class:          Cloud Shinobi
-Title:          Sword Saint (DevOps Ascendant)
-Origin:         FAST-NUCES, Chiniot-Faisalabad — Class of 2028
-Level:          5th Semester — Phase 4 cleared, EKS gates ahead
-HP:             ██████████████████░  90%
-Posture:        ███████████████░░░░  78%
-Resurrections:  Unlimited (thanks to version control)
-Current Region: ap-south-1 (AWS Territory, Mumbai Outpost)
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gojiro-34&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gojiro-34" height="165"/>
+</p>
 
-<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
+## 🐍 Contribution Snake
 
-## Prosthetic Tools (Skills)
-
-| Tool | Mastery |
-|---|---|
-| **Terraform / IaC** | Learned — HCL, state, full apply/destroy lifecycle, full Phase 1+2 capstone rebuild |
-| **Ansible** | Learned — idempotent playbooks, agentless SSH-based deployment |
-| **CloudFormation** | Learned — stacks, intrinsic functions, VPC+RDS from scratch |
-| **AWS Networking (VPC, IAM, Security Groups)** | Learned — custom VPC, subnets, and least-privilege IAM built by hand |
-| **Docker** | Learned — images, containers, deploys without hesitation |
-| **Docker Compose** | Learned — multi-container orchestration, service discovery, healthcheck-based startup |
-| **Kubernetes (Pods, Deployments, Services)** | Learned — core orchestration concepts, hands-on via minikube |
-| **AWS ECS & EKS** | Learned — managed container orchestration on AWS, ECS vs. EKS tradeoffs |
-| **GitOps (Jenkins, ArgoCD)** | Learned — CI/CD pipelines beyond push-to-deploy |
-| **Serverless (Lambda, EventBridge)** | Learned — automated RDS backups, scheduled and tested |
-| **AWS Services (EC2, S3, RDS, CloudFront, CloudWatch)** | Battle-tested — full capstone stack, interconnected |
-| **C++** | Learned — old style, still sharp |
-| **Godot Engine** | Side quest — dabbling in 2D game dev |
-
-<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
-
-## Boss Fights Defeated
-
-- [x] **Genichiro (Docker + CI/CD)** — containerized everything, GitHub Actions deploys on push
-- [x] **Guardian Ape (AWS Core Services)** — tamed VPC, EC2, RDS, S3, Lambda, CloudWatch, CloudFront
-- [x] **Isshin, the Sword Saint (Full IaC Mastery)** — Terraform, Ansible, CloudFormation, full capstone rebuild
-- [x] **Sword Saint Isshin, Phase 2 (Kubernetes + EKS + GitOps)** — Docker Compose, Kubernetes basics, EKS, ECS, GitOps pipeline cleared
-- [ ] **Inner Isshin (Certifications)** — locked — AWS CLF-C02, SAA, DevOps Engineer Pro
-
-<img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
-
-<div align="center">
-
-*"The path of the shinobi is not glorious.*<br/>
-*It is not honorable.*<br/>
-*It is a path to survive."*
-
-[<img src="https://img.shields.io/badge/GitHub-Gojiro--34-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/Gojiro-34)
-[<img src="https://img.shields.io/badge/LinkedIn-ibrahim--asif-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/ibrahim-asif-7a1243357/)
-[<img src="https://img.shields.io/badge/Portfolio-view-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Portfolio"/>](https://d12auqojlsm9xj.cloudfront.net)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gojiro-34/Gojiro-34/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
