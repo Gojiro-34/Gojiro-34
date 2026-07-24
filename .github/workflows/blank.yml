@@ -1,28 +1,29 @@
-name: generate snake
+name: generate arcade contribution graphs
 
 on:
-  schedule:
+  schedule: # run automatically every 24 hours
     - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
+  workflow_dispatch: # allows to manually run the job at any time
+  push: # run on every push on the master branch
     branches:
       - main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - uses: Platane/snk@v3
-        id: snake
+      - name: generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Gojiro-34
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#8B0000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8B0000
+          github_user_name: ${{ github.repository_owner }}
+          # Comma-separated list of valid game names (default: pacman)
+          games: 'pacman,bomberman'
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
