@@ -47,9 +47,11 @@ Current Region: ap-south-1 (AWS Territory)
 
 ## Contribution Grid
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gojiro-34/Gojiro-34/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gojiro-34/Gojiro-34/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gojiro-34/Gojiro-34/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gojiro-34/Gojiro-34/output/pacman-contribution-graph.svg">
+</picture>
 
 <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-8B0000?style=flat-square&labelColor=8B0000" width="100%" height="4"/>
 
