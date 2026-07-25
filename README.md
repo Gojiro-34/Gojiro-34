@@ -1,7 +1,8 @@
 <div align="center">
 
-# Mohammad Ibrahim Asif
-### `Shinobi of the Cloud`
+<p align="center">
+  <img src="./Gemini_Generated_Image_xryz6xryz6xryz6x%20(1).png" alt="Ibrahim - Cloud/DevOps Engineer" width="100%">
+</p>
 
 <p><i>"Hesitation is defeat."</i></p>
 
