@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./banner.png" alt="Ibrahim - Cloud/DevOps Engineer" width="100%">
+  <img src="./Gemini_Generated_Image_xryz6xryz6xryz6x (1).png" alt="Ibrahim - Cloud/DevOps Engineer" width="100%">
 </p>
 
 <p><i>"Hesitation is defeat."</i></p>
